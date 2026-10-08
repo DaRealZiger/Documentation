@@ -6,6 +6,8 @@ In this project, i will be exploring how [caesar cipher] works (although it is i
 
 This tool will be able to receive input and output through clipboard or the terminal
 
+[Github Repository](https://github.com/LaiZiSen/CaesarCipher)
+
 ### Core functions
 
 ##### Encryption and Decryption 
