@@ -3,7 +3,7 @@
 |    Projects    |     Zack      |      Sam      |
 | :------------ | :-----------: | :-----------: |
 | [[Projects/Encryption\|Encryption]] | [[Zack/Encryption/Encryption\|Documentation]] | [[Sam/Caesar Cipher\|Documentation]] |
-| [[CPU Scheduling Study\|CPU Management Study]] |  Not started  | [[CPU Scheduling Study|Planning]]|
+| [[CPU Scheduling Study\|CPU Management Study]] |  Not started  | [[CPU Scheduling Study\|Planning]]|
 | [[MRT Path Finding System]] | - | - |
 | Finance TrackerData Encryption Standard | - | - |
 
