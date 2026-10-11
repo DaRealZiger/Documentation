@@ -6,7 +6,7 @@
 | [[CPU Scheduling Study\|CPU Management Study]] |  Not started  | [[CPU Scheduling Study\|Planning]]|
 | [[MRT Path Finding System]] | - | - |
 | Finance Tracker | - | - |
-| [[Doom Flame Animation]]  | - | - |
+| [[Doom Flame Animation]]  | Already Regrettig It | - |
 
 
 ### Encryption Studies 
